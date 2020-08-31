@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dongxiaba.github.io/</loc>
+    <loc>https://dongxiaba.github.io/site/</loc>
     <lastmod>2020-08-31T14:05:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dongxiaba.github.io/post/</loc>
+    <loc>https://dongxiaba.github.io/site/post/</loc>
     <lastmod>2020-08-31T14:05:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dongxiaba.github.io/post/second/</loc>
+    <loc>https://dongxiaba.github.io/site/post/second/</loc>
     <lastmod>2020-08-31T14:05:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dongxiaba.github.io/post/my-first-post/</loc>
+    <loc>https://dongxiaba.github.io/site/post/my-first-post/</loc>
     <lastmod>2020-08-25T10:23:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dongxiaba.github.io/categories/</loc>
+    <loc>https://dongxiaba.github.io/site/categories/</loc>
   </url>
   
   <url>
-    <loc>https://dongxiaba.github.io/tags/</loc>
+    <loc>https://dongxiaba.github.io/site/tags/</loc>
   </url>
   
 </urlset>
