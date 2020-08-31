@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://dongxiaba.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 您好，我是冬夏爸</title>
+    <link>https://dongxiaba.site/post/</link>
+    <description>Recent content in Posts on 您好，我是冬夏爸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Aug 2020 14:05:25 +0800</lastBuildDate>
     
-	<atom:link href="https://dongxiaba.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dongxiaba.site/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second</title>
-      <link>https://dongxiaba.github.io/post/second/</link>
+      <link>https://dongxiaba.site/post/second/</link>
       <pubDate>Mon, 31 Aug 2020 14:05:25 +0800</pubDate>
       
-      <guid>https://dongxiaba.github.io/post/second/</guid>
+      <guid>https://dongxiaba.site/post/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://dongxiaba.github.io/post/my-first-post/</link>
+      <link>https://dongxiaba.site/post/my-first-post/</link>
       <pubDate>Tue, 25 Aug 2020 10:23:25 +0800</pubDate>
       
-      <guid>https://dongxiaba.github.io/post/my-first-post/</guid>
+      <guid>https://dongxiaba.site/post/my-first-post/</guid>
       <description>你好，大家好，才是真的好</description>
     </item>
     

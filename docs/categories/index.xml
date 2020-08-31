@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>https://dongxiaba.github.io/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on 您好，我是冬夏爸</title>
+    <link>https://dongxiaba.site/categories/</link>
+    <description>Recent content in Categories on 您好，我是冬夏爸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://dongxiaba.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dongxiaba.site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
