@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dongxiaba.github.io/post/my-first-post/</loc>
-    <lastmod>2020-08-25T10:23:25+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dongxiaba.github.io/</loc>
-    <lastmod>2020-08-25T10:23:25+08:00</lastmod>
+    <lastmod>2020-08-31T14:05:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://dongxiaba.github.io/post/</loc>
+    <lastmod>2020-08-31T14:05:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.github.io/post/second/</loc>
+    <lastmod>2020-08-31T14:05:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.github.io/post/my-first-post/</loc>
     <lastmod>2020-08-25T10:23:25+08:00</lastmod>
   </url>
   
