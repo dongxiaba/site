@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 您好，我是冬夏爸</title>
+    <title>Posts on 冬夏爸</title>
     <link>https://dongxiaba.site/post/</link>
-    <description>Recent content in Posts on 您好，我是冬夏爸</description>
+    <description>Recent content in Posts on 冬夏爸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Aug 2020 14:05:25 +0800</lastBuildDate>
@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>My First Post</title>
+      <title>hugo与GitHub使用备忘</title>
       <link>https://dongxiaba.site/post/my-first-post/</link>
       <pubDate>Tue, 25 Aug 2020 10:23:25 +0800</pubDate>
       
       <guid>https://dongxiaba.site/post/my-first-post/</guid>
-      <description>你好，大家好，才是真的好</description>
+      <description>hugo与GitHub使用备忘 hugo安装 基于wn10 wsl2 ubuntu8 </description>
     </item>
     
   </channel>

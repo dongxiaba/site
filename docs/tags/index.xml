@@ -1,14 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 您好，我是冬夏爸</title>
+    <title>Tags on 冬夏爸</title>
     <link>https://dongxiaba.site/tags/</link>
-    <description>Recent content in Tags on 您好，我是冬夏爸</description>
+    <description>Recent content in Tags on 冬夏爸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 31 Aug 2020 22:52:34 +0800</lastBuildDate>
     
 	<atom:link href="https://dongxiaba.site/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>docker</title>
+      <link>https://dongxiaba.site/tags/docker/</link>
+      <pubDate>Mon, 31 Aug 2020 22:52:34 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://dongxiaba.site/tags/golang/</link>
+      <pubDate>Mon, 31 Aug 2020 22:52:34 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPFS</title>
+      <link>https://dongxiaba.site/tags/ipfs/</link>
+      <pubDate>Mon, 31 Aug 2020 22:52:34 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/tags/ipfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://dongxiaba.site/tags/java/</link>
+      <pubDate>Mon, 31 Aug 2020 22:52:34 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p2p</title>
+      <link>https://dongxiaba.site/tags/p2p/</link>
+      <pubDate>Mon, 31 Aug 2020 22:52:34 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/tags/p2p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>区块链</title>
+      <link>https://dongxiaba.site/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</link>
+      <pubDate>Mon, 31 Aug 2020 22:52:34 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

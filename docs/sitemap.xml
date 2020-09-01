@@ -3,23 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dongxiaba.site/post/</loc>
-    <lastmod>2020-08-31T14:05:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dongxiaba.site/post/second/</loc>
-    <lastmod>2020-08-31T14:05:25+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dongxiaba.site/</loc>
-    <lastmod>2020-08-31T14:05:25+08:00</lastmod>
+    <lastmod>2020-08-31T22:58:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dongxiaba.site/post/my-first-post/</loc>
-    <lastmod>2020-08-25T10:23:25+08:00</lastmod>
+    <loc>https://dongxiaba.site/life/</loc>
+    <lastmod>2020-08-31T22:58:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/ownbusiness/</loc>
+    <lastmod>2020-08-31T22:57:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/docker/</loc>
+    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/golang/</loc>
+    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/ipfs/</loc>
+    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/java/</loc>
+    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/p2p/</loc>
+    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/</loc>
+    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
+    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/technology/</loc>
+    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
   </url>
   
   <url>
@@ -27,7 +62,7 @@
   </url>
   
   <url>
-    <loc>https://dongxiaba.site/tags/</loc>
+    <loc>https://dongxiaba.site/about/</loc>
   </url>
   
 </urlset>
