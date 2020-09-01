@@ -1,14 +1,22 @@
 baseURL = "https://dongxiaba.site"
-languageCode = "en-us"
 title = "冬夏爸"
 theme="ananke"
 
-DefaultContentLanguage = "ZH-CN"
+# 语言编码(中文: zh-CN)
+languageCode =                "zh-CN"
+# 默认的内容语言
+defaultContentLanguage =      "zh-CN"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
+
+# 如果draft为true，除非使用 --buildDrafts 参数，否则不会发布文章
+draft=false
+
 [params]
+    author = "dongxiaba"
+    github = "http://github.com/dongxiaba"
     favicon="/img/icon-32.png"
     hasCJKLanguage = true  #中文摘要效果更好

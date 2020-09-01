@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dongxiaba.site/</loc>
-    <lastmod>2020-09-01T11:39:33+08:00</lastmod>
+    <loc>https://dongxiaba.site/tags/hugo/</loc>
+    <lastmod>2020-09-01T12:02:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/technology/hugo/firstday/</loc>
+    <lastmod>2020-09-01T12:02:05+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://dongxiaba.site/tags/</loc>
-    <lastmod>2020-09-01T11:39:33+08:00</lastmod>
+    <lastmod>2020-09-01T12:02:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/</loc>
+    <lastmod>2020-09-01T12:02:05+08:00</lastmod>
   </url>
   
   <url>
@@ -33,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://dongxiaba.site/tags/blockchain/</loc>
+    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dongxiaba.site/tags/docker/</loc>
     <lastmod>2020-08-31T22:52:34+08:00</lastmod>
   </url>
@@ -48,17 +63,7 @@
   </url>
   
   <url>
-    <loc>https://dongxiaba.site/tags/java/</loc>
-    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dongxiaba.site/tags/p2p/</loc>
-    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dongxiaba.site/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
     <lastmod>2020-08-31T22:52:34+08:00</lastmod>
   </url>
   

@@ -5,11 +5,20 @@
     <link>https://dongxiaba.site/technology/</link>
     <description>Recent content in 技术 on 冬夏爸</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
     <lastBuildDate>Mon, 31 Aug 2020 22:52:34 +0800</lastBuildDate>
     
 	<atom:link href="https://dongxiaba.site/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hugo第一天</title>
+      <link>https://dongxiaba.site/technology/hugo/firstday/</link>
+      <pubDate>Tue, 01 Sep 2020 12:02:05 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/technology/hugo/firstday/</guid>
+      <description>安装 建站 主题 配置 </description>
+    </item>
     
   </channel>
 </rss>

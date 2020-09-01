@@ -1,9 +1,9 @@
 ---
 
-title: "Ananke: a Hugo Theme"
+title: "我是冬夏爸"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."  
+description: "您好，我是冬夏爸，欢迎您，光临我的小站。在这里将记录我对技术、对创业、对生活的一些理解或者感悟。"  
 
 ---
 
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+

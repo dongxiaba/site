@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on 冬夏爸</title>
+    <title>我是冬夏爸 on 冬夏爸</title>
     <link>https://dongxiaba.site/</link>
-    <description>Recent content in Ananke: a Hugo Theme on 冬夏爸</description>
+    <description>Recent content in 我是冬夏爸 on 冬夏爸</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2020 11:39:33 +0800</lastBuildDate>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 01 Sep 2020 12:02:05 +0800</lastBuildDate>
     
 	<atom:link href="https://dongxiaba.site/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hugo第一天</title>
+      <link>https://dongxiaba.site/technology/hugo/firstday/</link>
+      <pubDate>Tue, 01 Sep 2020 12:02:05 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/technology/hugo/firstday/</guid>
+      <description>安装 建站 主题 配置 </description>
+    </item>
     
     <item>
       <title>洋洋上幼儿园的第一天</title>
