@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "冬夏爸"
 theme="ananke"
 
-DefaultContentLanguage = "CN"
+DefaultContentLanguage = "ZH-CN"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
@@ -11,3 +11,4 @@ enableRobotsTXT = true
 
 [params]
     favicon="/img/icon-32.png"
+    hasCJKLanguage = true  #中文摘要效果更好
