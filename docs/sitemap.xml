@@ -3,22 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dongxiaba.site/tags/bittorrent/</loc>
+    <lastmod>2020-09-07T18:05:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/golang/</loc>
+    <lastmod>2020-09-07T18:05:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/p2p/</loc>
+    <lastmod>2020-09-07T18:05:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/tags/</loc>
+    <lastmod>2020-09-07T18:05:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/technology/build_a_bittorrent_with_golang/</loc>
+    <lastmod>2020-09-07T18:05:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/</loc>
+    <lastmod>2020-09-07T18:05:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongxiaba.site/ownbusiness/emailthinking/</loc>
+    <lastmod>2020-09-02T11:21:56+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dongxiaba.site/tags/hugo/</loc>
     <lastmod>2020-09-01T12:02:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dongxiaba.site/technology/hugo/firstday/</loc>
-    <lastmod>2020-09-01T12:02:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dongxiaba.site/tags/</loc>
-    <lastmod>2020-09-01T12:02:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dongxiaba.site/</loc>
+    <loc>https://dongxiaba.site/technology/firstday/</loc>
     <lastmod>2020-09-01T12:02:05+08:00</lastmod>
   </url>
   
@@ -53,17 +78,7 @@
   </url>
   
   <url>
-    <loc>https://dongxiaba.site/tags/golang/</loc>
-    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dongxiaba.site/tags/ipfs/</loc>
-    <lastmod>2020-08-31T22:52:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dongxiaba.site/tags/p2p/</loc>
     <lastmod>2020-08-31T22:52:34+08:00</lastmod>
   </url>
   

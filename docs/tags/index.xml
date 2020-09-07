@@ -6,10 +6,37 @@
     <description>Recent content in Tags on 冬夏爸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2020 12:02:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 18:05:40 +0800</lastBuildDate>
     
 	<atom:link href="https://dongxiaba.site/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bittorrent</title>
+      <link>https://dongxiaba.site/tags/bittorrent/</link>
+      <pubDate>Mon, 07 Sep 2020 18:05:40 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/tags/bittorrent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://dongxiaba.site/tags/golang/</link>
+      <pubDate>Mon, 07 Sep 2020 18:05:40 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p2p</title>
+      <link>https://dongxiaba.site/tags/p2p/</link>
+      <pubDate>Mon, 07 Sep 2020 18:05:40 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/tags/p2p/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hugo</title>
@@ -48,29 +75,11 @@
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://dongxiaba.site/tags/golang/</link>
-      <pubDate>Mon, 31 Aug 2020 22:52:34 +0800</pubDate>
-      
-      <guid>https://dongxiaba.site/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>IPFS</title>
       <link>https://dongxiaba.site/tags/ipfs/</link>
       <pubDate>Mon, 31 Aug 2020 22:52:34 +0800</pubDate>
       
       <guid>https://dongxiaba.site/tags/ipfs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>p2p</title>
-      <link>https://dongxiaba.site/tags/p2p/</link>
-      <pubDate>Mon, 31 Aug 2020 22:52:34 +0800</pubDate>
-      
-      <guid>https://dongxiaba.site/tags/p2p/</guid>
       <description></description>
     </item>
     

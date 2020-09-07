@@ -6,17 +6,35 @@
     <description>Recent content in 我是冬夏爸 on 冬夏爸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2020 12:02:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 18:05:40 +0800</lastBuildDate>
     
 	<atom:link href="https://dongxiaba.site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>如何用golang构建一个bittorrent客户端</title>
+      <link>https://dongxiaba.site/technology/build_a_bittorrent_with_golang/</link>
+      <pubDate>Mon, 07 Sep 2020 18:05:40 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/technology/build_a_bittorrent_with_golang/</guid>
+      <description>BitTorrent是用于在Internet上下载和分发文件的协议.与传统的客户端/服务器关系不同. 在传统的客户端/服务器关系中.下载器连接到中央服务器（例如：在Netflix上观看电影或加载您正在阅读的网页). BitTorrent网络中的参与者（称为peers)之间交换下载文件的分块-这就是p2p(peer-to-peer). 我们将研究其工作原理.并建立自己的客户端.该客户端可以找到peers并在它们之间交换数据.</description>
+    </item>
+    
+    <item>
+      <title>关于邮件管理企业网站的想法</title>
+      <link>https://dongxiaba.site/ownbusiness/emailthinking/</link>
+      <pubDate>Wed, 02 Sep 2020 11:21:56 +0800</pubDate>
+      
+      <guid>https://dongxiaba.site/ownbusiness/emailthinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hugo第一天</title>
-      <link>https://dongxiaba.site/technology/hugo/firstday/</link>
+      <link>https://dongxiaba.site/technology/firstday/</link>
       <pubDate>Tue, 01 Sep 2020 12:02:05 +0800</pubDate>
       
-      <guid>https://dongxiaba.site/technology/hugo/firstday/</guid>
+      <guid>https://dongxiaba.site/technology/firstday/</guid>
       <description>安装 建站 主题 配置 </description>
     </item>
     
